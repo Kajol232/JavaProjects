@@ -1,0 +1,81 @@
+*******Processed Results*********
+
+ Rec No. 	Surname	FirstName	Other Names	Ume Id	Total Score	Mean Score	Grade	Admission Status
+
+ 1		AYOADE		EZEKIEL		ADE		UT200		549.0		54.9		A		Congratulations,You have been admitted successfully. 
+
+2		ADEOLA		QASSIM		OLA		UT676		308.0		30.8		C		No admission given, Pls rewrite next year
+
+3		ADEBAYO		MOTUNRAYO		IFE		UT502		787.0		78.7		A		Congratulations,You have been admitted successfully. 
+
+4		AKINPELU		ROBIAT		AYO		UT897		580.0		58.0		A		Congratulations,You have been admitted successfully. 
+
+5		ADETUNJI		RUKAYAT		AYO		UT102		426.0		42.6		B		No admission given, Pls rewrite next year
+
+6		AJAERO		ONYINYAECHI		CHIKA		UT432		585.0		58.5		A		Congratulations,You have been admitted successfully. 
+
+7		RAJI		AMIN		IFE		UT402		431.0		43.1		B		No admission given, Pls rewrite next year
+
+8		LARA		BADMUS		DAYO		UT998		742.0		74.2		A		Congratulations,You have been admitted successfully. 
+
+9		BIDA		KAJOL		DEE		UT205		945.0		94.5		A		Congratulations,You have been admitted successfully. 
+
+10		FULCRUM		ADETOUN		DUPE		UT615		445.0		44.5		B		No admission given, Pls rewrite next year
+
+*******Total Candidates*********
+
+ THE TOTAL OF STUDENT THAT SAT FOR THE EXAM IS :
+
+ 1		AYOADE		EZEKIEL		ADE		UT200
+
+ 2		ADEOLA		QASSIM		OLA		UT676
+
+ 3		ADEBAYO		MOTUNRAYO		IFE		UT502
+
+ 4		AKINPELU		ROBIAT		AYO		UT897
+
+ 5		ADETUNJI		RUKAYAT		AYO		UT102
+
+ 6		AJAERO		ONYINYAECHI		CHIKA		UT432
+
+ 7		RAJI		AMIN		IFE		UT402
+
+ 8		LARA		BADMUS		DAYO		UT998
+
+ 9		BIDA		KAJOL		DEE		UT205
+
+ 10		FULCRUM		ADETOUN		DUPE		UT615
+
+ ********Data of Student Admitable*******
+
+Rec No. 	fullName	Ume Id
+
+ 1		AYOADE EZEKIEL ADE		UT200
+
+ 3		ADEBAYO MOTUNRAYO IFE		UT502
+
+ 4		AKINPELU ROBIAT AYO		UT897
+
+ 6		AJAERO ONYINYAECHI CHIKA		UT432
+
+ 8		LARA BADMUS DAYO		UT998
+
+ 9		BIDA KAJOL DEE		UT205
+
+ ************Data of Students That Fails******
+
+Rec No. 	Surname	FirstName	Other Names	Ume Id
+
+ 2		ADEOLA QASSIM OLA		UT676
+
+ 5		ADETUNJI RUKAYAT AYO		UT102
+
+ 7		RAJI AMIN IFE		UT402
+
+ 10		FULCRUM ADETOUN DUPE		UT615
+
+ ***********Students for Batch 2***********
+
+Rec No. 	Surname	FirstName	Other Names	Ume Id
+
+ 

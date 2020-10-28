@@ -1,0 +1,6 @@
+*******Processed Results*********
+
+ Rec No. 	Name	Matric Number	WGPA	CGPA	Grade
+
+ adeolu rachel		214000		315.000000		5.338983050847458
+Richard kings		207898		312.000000		5.288135593220339

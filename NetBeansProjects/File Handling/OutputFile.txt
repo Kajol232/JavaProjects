@@ -1,0 +1,24 @@
+Processed Results
+
+ Rec No. 	Surname	FirstName	Other Names	Ume Id	Total Score	Mean Score	Grade	Admission Status
+
+ 1		001		AYOADE		EZEKIEL		UT200		549.0		54.9		A		Congratulations,You have been admitted successfully. 
+
+2		002		ADEOLA		QASSIM		UT676		308.0		30.8		C		No admission given, Pls rewrite next year
+
+3		003		ADEBAYO		MOTUNRAYO		UT502		787.0		78.7		A		Congratulations,You have been admitted successfully. 
+
+4		004		AKINPELU		ROBIAT		UT897		580.0		58.0		A		Congratulations,You have been admitted successfully. 
+
+5		005		ADETUNJI		RUKAYAT		UT102		426.0		42.6		B		No admission given, Pls rewrite next year
+
+6		006		AJAERO		ONYINYAECHI		UT432		585.0		58.5		A		Congratulations,You have been admitted successfully. 
+
+7		007		RAJI		AMIN		UT402		431.0		43.1		B		No admission given, Pls rewrite next year
+
+8		008		LARA		BADMUS		UT998		742.0		74.2		A		Congratulations,You have been admitted successfully. 
+
+9		009		BIDA		KAJOL		UT205		945.0		94.5		A		Congratulations,You have been admitted successfully. 
+
+10		010		FULCRUM		ADETOUN		UT615		445.0		44.5		B		No admission given, Pls rewrite next year
+
